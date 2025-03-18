@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
-<h3 align="center">A developer building cool things</h3>
+<h1 align="center">👋 Asher here! </h1>
+<h3 align="center"> ML enthusiast!</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/you"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"></a>
@@ -9,10 +9,10 @@
 
 ---
 
-🔭 I’m currently working on **something awesome**  
-🌱 Learning **React & TypeScript**  
-💬 Ask me about **Python, APIs, or coffee!**  
-📫 Reach me: **you@email.com**
+🔭 I am currently working on **Implemementing Core Alogrithms of Machine Learning and Deep Learning from Scratch**  
+🌱 Learning **Theory (Math and Statistics) behind Machine Learning**  
+💬 Ask me about **Python, Data Sciences, Machine Learning!**  
+
 
 ---
 
